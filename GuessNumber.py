@@ -35,7 +35,7 @@ choilai= 'co'
 while choilai == 'co' or choilai == 'có':
     intro()
     guessesnumber()
-    print('bạn có muốn chơi lại không?')
+    print('bạn có muốn chơi lại không? r')
     choilai = input()
     
     
