@@ -1,2 +1,2 @@
 print("lo con cac")
-print("ga")
+print("ga chien xa ot")
